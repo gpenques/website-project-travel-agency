@@ -1,0 +1,407 @@
+.navbar {
+    background-color: #c1730e;
+    font-style: normal;
+    height: 40px;
+    font-size: 18px;
+    color: rgb(243, 233, 233);
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    font-family:'Times New Roman';
+    padding: 0 ;
+}
+
+.navbar a {
+    color: rgb(5, 5, 5); 
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+body {
+    background-color: #c4beb5;
+    }
+
+#welcome {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 11px;
+    font-family:'Times New Roman';
+}
+
+#us {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 12px;
+    font-family:'Times New Roman';
+}
+
+
+#travelagency {
+    justify-content:space-evenly;
+    text-align: center;
+
+}
+
+#destination {display:flex;
+    justify-content: center;
+    image: 10px;
+    }
+
+    img { 
+        width: 35%;
+    }
+
+
+#getintouch {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 20px;
+    font-family:'Times New Roman';
+}
+
+#otherdestination {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+}
+
+#how {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 18px;
+    font-family:'Times New Roman';
+}
+
+#ctct {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 15px;
+        font-family:'Times New Roman';
+    }
+
+    #email {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 15px;
+        font-family:'Times New Roman';
+    }
+
+    #booked {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 15px;
+        font-family:'Times New Roman';
+    }
+
+    #insurance {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 18px;
+        font-family:'Times New Roman';
+    }
+
+
+    #quote {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 16px;
+        font-family:'Times New Roman';
+        text-decoration: none;
+        text-decoration: none;
+    }
+
+    #container {
+        margin: 50px auto;
+        padding: 20px;
+        box-sizing: border-box;
+        font-family:'Times New Roman' ;
+        width: 80%;
+        max-width: 600px;
+        border-radius: 10px;
+        box-shadow: 0 5px 10px rgba(0,0,0,0.2) ;
+    }
+    
+    body{
+        background-color:#c4beb5; 
+    }
+   
+    #container h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    form input, 
+    form textarea {
+        display: block;
+        width: 100%;
+        margin-bottom: 10px ;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #ffffff;
+    }
+
+    form input:focus,
+    form textarea:focus {
+        outline: none;
+        box-shadow: 0 0 5px;
+    }
+
+    form button {
+        display: block;
+        width: 100%;
+        padding:10px ;
+        border: none;
+        border-radius: 5px ;
+        background-color: #c4beb5;
+
+    }
+
+    form input:focus 
+    form textarea:focus {
+        outline: none;
+        box-shadow: 0 0 5px 
+    }
+
+    form button {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #c4beb5;
+        cursor: pointer;
+        transition: 0.3s ease;
+    }
+
+    form button:hover {
+        background-color: #faf4f4;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+#Greece {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+
+}
+
+#discoveryg { 
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+   
+}
+
+p { display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+    padding: 10px 10px;
+}
+#greece1 {
+    display:flex;
+    justify-content: center;
+    image: 10px;
+    }
+
+    img { 
+        width: 35%;
+    }
+
+#iparadise {display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 27px;
+    font-family:'Times New Roman';
+
+}
+
+#paradise {display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+
+}
+
+#bbeaches {display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 35px;
+    font-family:'Times New Roman';
+}
+
+#beautifulbeaches {display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+}
+
+#navvbar {
+    background-color: #c1730e;
+    font-style: normal;
+    height: 40px;
+    font-size: 18px;
+    color: rgb(243, 233, 233);
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    font-family:'Times New Roman';
+    padding: 10px 180px ;
+
+}
+
+#navvbar a {
+    color: rgb(5, 5, 5); 
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#japan {
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+}
+
+#h2 { 
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    display:flex;
+    font-size: 19px;
+    font-family:'Times New Roman';
+}
+
+#japan1 {
+    display:flex;
+    justify-content: center;
+    image: 10px;
+    }
+
+    img { 
+        width: 35%;
+    }
+
+    #japanbeauty {display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 25px;
+        font-family:'Times New Roman';
+    }
+
+    #islandnation {display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 19px;
+        font-family:'Times New Roman';
+    }
+
+    #tec {display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 29px;
+        font-family:'Times New Roman';
+    }
+
+    #expandtec {display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 19px;
+        font-family:'Times New Roman';
+    }
+
+    #rent {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 14px;
+        font-family:'Times New Roman';
+        text-decoration-color:black
+    }
+    
+    #hirecar {
+        color: black;
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        display:flex;
+        font-size: 16px;
+        font-family:'Times New Roman';
+    }
+    
+    #carr {
+        display:flex;
+        justify-content: center;
+        image: 10px;
+        }
+    
+        img { 
+            width: 35%;
+    }
+
+    #trainsurance {
+        display:flex;
+        justify-content: center;
+        image: 10px;
+        }
+    
+        img { 
+            width: 35%;
+    }
+
+
